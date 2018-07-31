@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spectral</title>
-    <description>Another fine responsive  
-site template freebie  
-crafted by [HTML5 UP](http://html5up.net)
+    <title>Summit Coding Club</title>
+    <description>Join the club, learn to code with your friends
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Jul 2018 03:20:03 +0000</pubDate>
-    <lastBuildDate>Tue, 31 Jul 2018 03:20:03 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Jul 2018 18:49:49 +0000</pubDate>
+    <lastBuildDate>Tue, 31 Jul 2018 18:49:49 +0000</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
   </channel>
